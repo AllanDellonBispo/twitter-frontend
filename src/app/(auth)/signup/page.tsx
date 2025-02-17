@@ -12,7 +12,7 @@ export default function Page() {
             </div>
             <div className="flex flex-col justify-center items-center gap-1 md:flex-row">
                 <div className="text-gray-500">Já tem uma conta?</div>
-                <Link href="/signin" className="hover:underline">Entrar no Z</Link>
+                <Link href="/signin" className="hover:underline">Entrar no X</Link>
             </div>
         </div>
     );

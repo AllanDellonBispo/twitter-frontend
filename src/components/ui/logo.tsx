@@ -8,8 +8,8 @@ export const Logo = ({ size }: Props) => {
     return (
         <Link href="/">
             <Image
-                src={'/logo.png'}
-                alt="Z"
+                src={'/x.png'}
+                alt="X"
                 width={size}
                 height={size}
                 quality={100}
